@@ -11,7 +11,6 @@
 |
 */
 
-//nisacantik
 
 Auth::routes();
 
